@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SaveName" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <style name="set_bg_toolbar">
+        <item name="android:background">@color/old_purple</item>
+    </style>
+
+    <style name="set_btn_save">
+        <item name="android:background">@drawable/btn_night_background_save</item>
+    </style>
+
+    <style name="set_Text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
